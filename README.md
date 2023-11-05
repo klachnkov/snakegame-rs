@@ -13,6 +13,12 @@ note: if you encountered a bug feel free to open an issue :]
 
 • **color your own snake with various different colors :sparkles::fire:**
 
+### launcher-gui:
+![Screenshot](assets/launcher.png)
+
+### snake-game:
+![Screenshot](assets/game.png)
+
 # authors
 **klachnkov: https://github.com/kosatkanull**
 
