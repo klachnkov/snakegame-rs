@@ -21,7 +21,7 @@ note: if you encountered a bug feel free to open an issue :]
 ![Screenshot](assets/game.png)
 
 # authors
-**klachnkov: https://github.com/kosatkanull**
+**klachnkov: https://github.com/kosatkanull ;]**
 
 # credits
 **game-framework: https://github.com/deltaphc/raylib-rs**<br/>
