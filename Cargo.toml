@@ -1,0 +1,22 @@
+[package]
+name = "snakeGame"
+version = "0.1.0"
+edition = "2021"
+build = "build-info/build.rs"
+
+[target.'cfg(windows)'.build-dependencies]
+winres = "0.1.12"
+
+[package.metadata.winres]
+OriginalFilename = "snakeGame-rs.exe"
+#...
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fltk = "1.4.16"
+raylib = "3.7.0"
+serde = { version = "1.0.190", features = ["derive"] }
+serde_json = "1.0.108"
+homedir = "0.2.1"
+ureq = "2.8.0"
