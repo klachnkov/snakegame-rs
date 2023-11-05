@@ -3,7 +3,7 @@
 **this is a simple snake game made in rust raylib bindings :apple::snake:**<br/>
 **the game comes with a launcher made fltk bindings, the launcher let you controls snake color && cell size,amount**<br/>
 also the game icon creature is real and his name is bob<br/>
-**Download: https://github.com/kosatkanull/SnakeGame-rs-v2/releases/download/Beta/snakeGame.exe**
+**Download: https://github.com/kosatkanull/snakegame-rs/releases/download/Beta/snakeGame.exe**
 
 # why?
 **game made for learning purposes (rust && raylib bindings)**<br/>
