@@ -100,7 +100,7 @@ pub fn init_folder() {
             Ok(_) => {}
             Err(_) => {
                 // NOTE: idk if this stays forever "https://i.imgur.com/ybrniGv.png"
-                let url = "https://github.com/kosatkanull/SnakeGame-rs/raw/main/assets/icon.png";
+                let url = "https://github.com/kosatkanull/snakegame-rs/raw/master/assets/icon.png";
                 let request = ureq::get(url).call().unwrap();
 
                 let _ = fs::File::create(&icon_path);
